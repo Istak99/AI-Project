@@ -1,0 +1,2 @@
+Click and Download This File Along With the other Files
+https://pjreddie.com/media/files/yolov3.weights
